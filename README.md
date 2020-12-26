@@ -21,3 +21,7 @@
   - Shadows
   - Form controls etc.
 - responsive design (as per [deployed site](https://alyramag-bootstrap.netlify.app/index.html) and screenshots)
+
+### Launch a local development server
+
+Click to `Go Live` from the status bar to turn the server on/off
